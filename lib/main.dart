@@ -27,7 +27,7 @@ class _DicePageState extends State<DicePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(
-          'Your Dice Number: $diceNumber',
+          'Dice Number: $diceNumber',
           style: TextStyle(fontSize: 30),
         ),
 SizedBox(
